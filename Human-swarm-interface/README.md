@@ -25,14 +25,6 @@ Please send all bug reports to authors.
 
 The authors may be contacted via:
 
-Shiyu Zhao
-Associate Professor
-Director of the Intelligent Unmanned Systems Laboratory
-School of Engineering, Westlake University
-Email: zhaoshiyu@westlake.edu.cn
-
-and
-
 Guibin Sun
 Postdoctoral Fellow
 School of Automation Science and Electrical Engineering
